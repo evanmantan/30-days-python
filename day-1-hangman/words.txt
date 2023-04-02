@@ -1,0 +1,20 @@
+Keyboard
+Mouse
+Monitor
+Printer
+Scanner
+CPU
+RAM
+Hard Drive
+SSD
+Motherboard
+Graphics Card
+Ethernet
+USB
+Firewall
+Browser
+Email
+WiFi
+Bluetooth
+Operating System
+Software
