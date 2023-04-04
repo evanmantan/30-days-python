@@ -1,6 +1,6 @@
 # Day 2 - Web Scraper 0️⃣2️⃣
 
-In the second day, we're going to follow along a tutorial from Real Python on [how to build a simple web scraper using Beautiful Soup][https://realpython.com/beautiful-soup-web-scraper-python/].  
+In the second day, we're going to follow along a tutorial from Real Python on [how to build a simple web scraper using Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/).  
 In addition, we're going to write the result to a CSV file too!
 
 ## Step-by-step (simplified) 📒
