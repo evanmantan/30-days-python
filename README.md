@@ -1,4 +1,4 @@
 # 30-days-python :three::zero::snake:
-A challenge for myself (and you too) to not miss a single day on building simple (intermediate &amp; advanced also, probably) python projects
+A collection of simple (intermediate &amp; advanced also, probably) python projects that's divided to 30 days. 
 
 ## Further elaboration coming soon :hourglass:
